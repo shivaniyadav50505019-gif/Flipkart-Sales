@@ -3,4 +3,4 @@
 This is a beginner-friendly Git & GitHub practice project.
 Analyzing sales data using Python.
 
-Author: Deepak Kumar Tiwari
+Author Shivani Yadav
